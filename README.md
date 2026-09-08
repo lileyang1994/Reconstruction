@@ -2,8 +2,7 @@
 Remote sensing time-series missing data reconstruction algorithm implementation.
 
 ## Project Overview
-This repository contains source codes of the submitted papper "Trend-aware Reconstruction for Remote Sensing Time Series under Non-random
-Missingness"
+This repository contains source codes of the submitted papper "Trend-Preserving Reconstruction of Time Series Sensor Data under Non-random Missingness"
 
 ## Data Preparation
 1. Download MOD13QI and put the dataset into the `MOD13QI/` folder under the project root path.
